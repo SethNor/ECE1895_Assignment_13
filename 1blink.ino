@@ -1,3 +1,4 @@
+\\Seth Nordeen
 int ledPin = 8;  // LED connected to digital pin 8
 int inPin = 9;    // pushbutton connected to digital pin 9
 int val = 0;      // variable to store the read value
